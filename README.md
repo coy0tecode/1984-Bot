@@ -2,17 +2,26 @@
 Silence political dissidents with your very own 1984 Bot. Many restrictions apply because I don't know JavaScript.
 
 
+
 Requirements:
 
 JS ES6
+
  -Node
+ 
  -python-shell
  
+ 
 Python 3.7
+
  -NLTK
+ 
  -Pickle
+ 
  -pyttsx3
+ 
  -speech_recognition
+
 
 
 
